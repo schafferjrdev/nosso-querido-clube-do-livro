@@ -1,0 +1,31 @@
+{
+    "livros": [
+        {
+            "nome": "A Senhora de Wildfell Hall"
+        },
+        {
+            "nome": "A Vida dos Elfos"
+        },
+        {
+            "nome": "Dois Irmãos"
+        }
+    ],
+    "votantes": [
+        {
+            "nome": "Schaffer",
+            "ballot": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "nome": "Estela",
+            "ballot": [
+                1,
+                2,
+                3
+            ]
+        }
+    ]
+}
